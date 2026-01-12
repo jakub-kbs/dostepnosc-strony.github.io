@@ -1,11 +1,11 @@
 :root {
-    --color-primary: #11516d;
-    --color-dark: #76e749;
-    --color-darker: #fdfdfd;
-    --color-text: #0d5092;
-    --color-text-secondary: #cde1cb;
-    --color-accent: #d40606;
-    --color-border: #1f3b1e;
+    --color-primary: #38bdf8;
+    --color-dark: #0f172a;
+    --color-darker: #020617;
+    --color-text: #e0ffff;
+    --color-text-secondary: #cbd5e1;
+    --color-accent: #06b6d4;
+    --color-border: #1e293b;
 }
 
 * {
@@ -273,4 +273,5 @@ li {
         grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     }
 }
+
 
